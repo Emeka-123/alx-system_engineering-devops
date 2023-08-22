@@ -1,0 +1,18 @@
+total 64
+drwxr-xr-x 3 root root  4096 Aug 22 08:21 .
+drwxr-xr-x 6 root root   104 Aug 22 07:15 ..
+-rwxr--r-- 1 root root    32 Aug 22 07:17 0-hello_world
+-rwxr--r-- 1 root root    28 Aug 22 07:24 1-confused_smiley
+-rwxr--r-- 1 root root    28 Aug 22 07:28 2-hellofile
+-rwxr--r-- 1 root root    39 Aug 22 07:32 3-twofiles
+-rwxr--r-- 1 root root    29 Aug 22 07:36 4-lastlines
+-rwxr--r-- 1 root root    29 Aug 22 07:39 5-firstlines
+-rwxr--r-- 1 root root    40 Aug 22 07:54 6-third_line
+-rw-r--r-- 1 root root 12288 Aug 22 07:46 .6-third_line.swp
+-rwxr--r-- 1 root root    98 Aug 22 08:13 7-file
+-rwxr--r-- 1 root root    36 Aug 22 08:20 8-cwd_state
+drwxr-xr-x 6 root root   125 Aug 22 07:48 alx-system_engineering-devops
+-rw-r--r-- 1 root root    12 Aug 22 08:14 \*\\"\"Best School\"\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   801 Aug 22 07:57 iacta
+-rw-r--r-- 1 root root     0 Aug 22 08:21 ls_cwd_content
+-rw-r--r-- 1 root root    14 Aug 22 08:06 output
